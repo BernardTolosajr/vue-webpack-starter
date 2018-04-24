@@ -50,6 +50,7 @@
     "collectCoverageFrom": [
       "src/**/*.{js,vue}"
     ],
+    "coverageDirectory": ".jest_coverage",
     "moduleFileExtensions": [
       "js",
       "vue"
